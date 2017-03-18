@@ -24,6 +24,7 @@ and open the template in the editor.
 
      <?php
        echo('yoyoyo Sarah!!!!');
+       echo('Test');
      ?>
      <footer>
      
